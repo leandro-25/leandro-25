@@ -23,7 +23,6 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 Atualmente estou aprendendo sobre Engenharia de Prompt (LLM);
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
 - 💻 Entusiasta de Tecnologia;
-- 📫 Como entrar em contato comigo: lemariano25@gmail.com;
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/leandro-25)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandromarianojr/)
