@@ -1,16 +1,8 @@
 ## Olá!! Eu sou o Leandro Mariano Jr, Estudante 🚀 Brazil
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
-
-
-
-
-
 <!-- Your badges
-You can use the website to generate badges: https://shields.io/
+You can use the website to generate badges: https://shields.io/&nbsp;
 -->
-
-&nbsp;
 
 <!-- Talking about you -->
 **Falando sobre coisas pessoais:**
@@ -18,9 +10,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/leandro-25/leandro-25/blob/main/git-header.svg" />
 
-- 🌱 Formado em Ciência da Computação;
+- 🎓 Formado em Ciência da Computação;
 - 🌱 Estudando Analise e desenvolvimento de sistemas;
-- 🌱 Atualmente estou aprendendo sobre Engenharia de Prompt (LLM);
+- 📚 Atualmente estou aprendendo sobre Engenharia de Prompt (LLM);
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
 - 💻 Entusiasta de Tecnologia;
 
