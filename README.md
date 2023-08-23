@@ -1,9 +1,7 @@
 ## Olá!! Eu sou o Leandro Mariano Jr, Estudante 🚀 Brazil
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-- 🌱 Formado em Ciência da Computação
-- 🌱 Estudando Analise e desenvolvimento de sistemas
-- 💻 Entusiasta de Tecnologia
+
 
 
 
@@ -21,18 +19,17 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Falando sobre coisas pessoais:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- 🌱 Formado em Ciência da Computação;
+- 🌱 Estudando Analise e desenvolvimento de sistemas;
+- 🌱 Atualmente estou aprendendo sobre Engenharia de Prompt (LLM);
+- 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
+- 💻 Entusiasta de Tecnologia;
+- 📫 Como entrar em contato comigo: lemariano25@gmail.com;
 
 **Languages and Tools:** 
 
