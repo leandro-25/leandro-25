@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandro-25@gmail.com)
 <!--[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)-->
 
-**Languages and Tools:** 
+**Linguagens e ferramentas:** 
 
 
 
@@ -36,8 +36,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code></code>
-  <code></code>
+  <code><img width="8%" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+  <code><img width="12%" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code>
   <code></code>
   <br />
 </p>
