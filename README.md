@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Leandro Mariano Jr, Estudante 🚀 Brazil
+## Olá!! Eu sou o Leandro Mariano Jr, Estudante 🚀 Brasil
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/&nbsp;
@@ -39,23 +39,26 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="8%" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
   <code><img width="12%" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code>
   <code><img width="19%" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+  <br />
   <code><img width="19%" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
-  <code><img width="17%" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
-  <code><img width="19%" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+  <code><img width="18%" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"></code>
   <br />
   <code><img width="11%" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
   <code><img width="12%" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
-  <code><img width="15%" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></code>
-  <code><img width="15%" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"></code>
-  <code><img width="15%" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
-  <code><img width="17%" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
+  <code><img width="16%" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></code>
   <br />
-  <code><img width="17%" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
-  <code><img width="17%" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></code>
-  <code><img width="20%" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
-  <code><img width="18%" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"></code>
+  <code><img width="16%" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
+  <code><img width="19%" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
+  <br />
+  <code><img width="16%" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
+  <code><img width="16%" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></code>
+  <code><img width="19%" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+  <br />
+  <code><img width="17%" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"></code>
   <code><img width="14%" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
-  <code><img width="16%" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></code>
   <br />
   
   
