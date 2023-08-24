@@ -17,9 +17,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandro-25@gmail.com)
 
 **Linguagens e ferramentas:** 
-
+ <p  align="center">
 <img width="45%" height="137px" src="https://github-readme-stats.vercel.app/api?username=leandro-25&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img width="48%" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-25&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
+ </p>p
   <p  align="center">
   <code><img width="8%" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
   <code><img width="12%" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code>
