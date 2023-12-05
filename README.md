@@ -7,7 +7,7 @@
 
 - 🎓 Formado em Ciência da Computação;
 - 🌱 Estudando Analise e desenvolvimento de sistemas;
-- 📚 Atualmente estou aprendendo sobre Engenharia de Prompt (LLM);
+- 📚 Atualmente estou aprendendo sobre Engenharia de Prompt (LLM), Data Science, IA;
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
 - 💻 Entusiasta de Tecnologia;
 
