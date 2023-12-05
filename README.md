@@ -18,7 +18,7 @@
 
 **Linguagens e ferramentas:** 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leandro-25&theme=radical&border_radius=4.3&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=490&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leandro-25&theme=radical&border_radius=4.3&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400&type=png)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
 
   <p  align="center">
