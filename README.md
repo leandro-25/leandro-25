@@ -17,9 +17,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandro-25@gmail.com)
 
 **Linguagens e ferramentas:** 
-  <p align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leandro-25&theme=radical&border_radius=4.3&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=465&type=png)](https://git.io/streak-stats)
-  </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
   
   
