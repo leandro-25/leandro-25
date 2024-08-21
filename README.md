@@ -1,5 +1,7 @@
-## Olá!! Eu sou o Leandro Mariano Jr, Estudante 🚀 Brasil
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,EU+SOU+O+LEANDRO+MARIANO+JUNIOR;EU+TENHO+28+ANOS;EU+SOU+DE+MOGI+GUAÇU,SP;SEJA+BEM+VINDO!:%29)](https://git.io/typing-svg) 
+
 
 **Falando sobre coisas pessoais:**
 
@@ -52,6 +54,4 @@
   <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/leandro-25/leandro-25.svg" />
   </p>
-
-
 
