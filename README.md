@@ -22,7 +22,6 @@
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leandro-25&theme=radical&border_radius=4.3&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=465&type=png)](https://git.io/streak-stats)
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-25&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-25&hide_progress=true&token=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)
 
 
   <p  align="center">
