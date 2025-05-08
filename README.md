@@ -3,25 +3,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,EU+SOU+O+LEANDRO+MARIANO+JUNIOR;EU+TENHO+28+ANOS;EU+SOU+DE+MOGI+GUAÇU,SP;SEJA+BEM+VINDO!:%29)](https://git.io/typing-svg) 
 
 
-**Falando sobre coisas pessoais:**
+c
+<img width="40%" align="right" alt="Github" src="https://github.com/leandro-25/leandro-25/blob/main/eu2" />
 
-<img width="55%" align="right" alt="Github" src="https://github.com/leandro-25/leandro-25/blob/main/git-header.svg" />
-
-- 🎓 Formado em Ciência da Computação;
-- 🌱 Estudando Analise e desenvolvimento de sistemas;
-- 📚 Atualmente estou aprendendo sobre Engenharia de Prompt (LLM), Data Science, IA;
-- 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
-- 💻 Entusiasta de Tecnologia;
+* 🌎 **Localização:** Mogi Guaçu
+* 🎓 **Formação:** Ciência da Computação
+* 🏆 **Premios:** Campeão RoboCode 2019 FMPFM
+* 👨‍🎓 **Cursando:** Analise e desenvolvimento de sistemas
+* 🏛  **Intituição:** Fatec Mogi Mirim, 6° semestre
+* 💼 **Experiencia:** Suporte, Cybersecurity em nuvem
+* 🧠 **Conhecimentos:** C, C++, Java, Javascript, Python, HTML, CSS, SQL
+* 📚 **Estudando:** Atualmente estou aprendendo sobre Agente de IA, LLM
+* 📑 **Cerificações:** Scrum Fundamentals, Extreme Programming Foundation, Chaos Engineering Practitioner
+(GCCEP), Six Sigma Yellow Belt
+* 💻 **Cursos Relevantes:**  Data Science Santander Coders ADA, Data Science e Machine Learning ASIMOV
+* ⚽ **Hobbies:** MTB, encontros de carros
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/leandro-25)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandromarianojr/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/izzy.leandro/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandro-25@gmail.com)
-
-**Linguagens e ferramentas:** 
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leandro-25&theme=radical&border_radius=4.3&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=465&type=png)](https://git.io/streak-stats)
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro-25&theme=radical&show_icons=true)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lemariano25@gmail.com)
+  
 
 
   <p  align="center">
