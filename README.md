@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,EU+SOU+O+LEANDRO+MARIANO+JUNIOR;EU+TENHO+28+ANOS;EU+SOU+DE+MOGI+GUAÇU,SP;SEJA+BEM+VINDO!:%29)](https://git.io/typing-svg) 
 
 
-c
+
 <img width="40%" align="right" alt="Github" src="https://github.com/leandro-25/leandro-25/blob/main/eu2" />
 
 * 🌎 **Localização:** Mogi Guaçu
