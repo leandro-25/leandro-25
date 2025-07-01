@@ -4,7 +4,7 @@
 
 
 
-<img width="40%" align="right" alt="Github" src="https://github.com/leandro-25/leandro-25/blob/main/eu2" />
+<img width="40%" align="right" alt="Github" src="https://github.com/leandro-25/leandro-25/blob/main/eu.jpeg" />
 
 * 🌎 **Localização:** Mogi Guaçu
 * 🎓 **Formação:** Ciência da Computação
